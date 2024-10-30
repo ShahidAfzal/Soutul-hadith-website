@@ -1046,6 +1046,20 @@ strong {
   
 }
 
+@media screen and (max-width: 500px) {
+  .social-icon{
+    margin-left: 135px;
+  }
+  
+}
+
+@media screen and (max-width: 400px) {
+  .social-icon{
+    margin-left: 70px;
+  }
+  
+}
+
 
 @media screen and (max-width: 480px) {
   h1 {
